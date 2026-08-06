@@ -1,0 +1,4 @@
+interface:
+  display_name: "Usage"
+  short_description: "Analyze Codex token usage across computers"
+  default_prompt: "Use $usage to show my Codex token usage for today, this week, and this month."
